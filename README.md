@@ -1,2 +1,2 @@
-# Mobtest
-Mobtest driver
+# mobtest
+mobtest automation framework
